@@ -1,5 +1,7 @@
-This course is currently WIP
+# This course is currently a WIP
 
-<p align="center">
-    <img alt="Gopher" src="./assets/gopher-wrench.png"/>
-</p>
+Expected completion: Q2 2024
+
+<br>
+
+<img alt="Gopher" src="./assets/gopher-wrench.png" width="350"/>
