@@ -18,7 +18,7 @@
     - set of lecture slides covering topics of the course
 - [Exercises](https://github.com/course-go/exercises)
     - set of exercises designed as complementary work to lectures for students
-- [Homeworks](https://github.com/course-go/homeworks)
+- [Homework](https://github.com/course-go/homework)
     - set of graded homework
 - [Code](https://github.com/course-go/code)
     - contains code used throughout the course exercises and homework
