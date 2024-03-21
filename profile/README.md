@@ -17,6 +17,5 @@
 - [Lectures](https://github.com/course-go/lectures): set of lecture slides covering topics of the course
 - [Exercises](https://github.com/course-go/exercises): set of exercises designed as complementary work to lectures for students
 - [Homework](https://github.com/course-go/homework): set of graded homework
+- [Course](https://github.com/course-go/course): general repository for course information, course schedule, discussions and resources
 - [Code](https://github.com/course-go/code): contains code used throughout the course exercises and homework
-- [Schedule](https://github.com/course-go/schedule): shows a plan and a summary of the structure of the course
-- [Resources](https://github.com/course-go/resources): contains supportive materials and other resources related to the topics of the course
