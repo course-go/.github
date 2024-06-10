@@ -8,8 +8,6 @@
 - [Homework](https://github.com/course-go/homework): set of graded homework assignments
 - [Code](https://github.com/course-go/code): contains code used throughout the course exercises and homework
 
-</br>
-
 <p align="center">
-    <img alt="Gopher" src="./assets/gopher-looking-up.png" width="350"/>
+    <img alt="Gopher" src="./assets/gopher-looking-up.png" width="350" style="margin-top:36px"/>
 </p>
