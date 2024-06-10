@@ -1,6 +1,4 @@
-<p align="center">
-    <h1 align="center">Course Go</h2>
-</p>
+<h1 align="center">Course Go</h2>
 
 ### Structure
 
